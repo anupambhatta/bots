@@ -133,6 +133,7 @@ setuptools.setup(
         'scripts/bots-dirmonitor.py',
         'scripts/bots-jobqueueserver.py',
         'scripts/bots-plugoutindex.py',
+        'scripts/bots-plugread.py',
         'scripts/bots-job2queue.py',
         ],
 
